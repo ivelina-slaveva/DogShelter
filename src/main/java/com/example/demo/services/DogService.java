@@ -99,8 +99,8 @@ public class DogService {
 	
 	public void sendEmail(String msg) {
 
-        final String username = "kakashi_m@abv.bg";
-        final String password = "lupinek_1317!@";
+        final String username = "*************";
+        final String password = "*************";
 
         Properties prop = new Properties();
 		prop.put("mail.smtp.host", "smtp.abv.bg");
